@@ -4,6 +4,7 @@ Unity version : 2021.3.21f1
 equipment
 -------------------
 Meta Quest 2
+
 tactsuit x40
 
 How to controll
@@ -19,6 +20,7 @@ C (calibation)
 F1 (go to next stage)
 
 F2 (go to previous stage)
+
 
 
 subject(with controller) :
